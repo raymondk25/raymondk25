@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me raymondtaiwan25@gmail.com
 
+
+![](https://komarev.com/ghpvc/?username=raymondk25&color=blue)
 ### Languages and Tools
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
